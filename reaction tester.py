@@ -1,4 +1,4 @@
-import pygame
+import pygame  # type: ignore
 import random
 import time
 import math
@@ -9,7 +9,7 @@ pygame.mixer.init()
 
 WIDTH, HEIGHT = 600, 400
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Reaction Time Tester")
+pygame.display.set_caption("Twitch-y")
 
 font = pygame.font.Font(None, 36)
 title_font = pygame.font.Font(None, 64)
@@ -22,9 +22,9 @@ BLACK = (0, 0, 0)
 BLUE = (100, 150, 255)
 
 # Load sounds (replace with your actual mp3 files)
-start_sound = pygame.mixer.Sound("chime.mp3")
-too_soon_sound = pygame.mixer.Sound("oops.mp3")
-success_sound = pygame.mixer.Sound("ding.mp3")
+start_sound = pygame.mixer.Sound("assets/chime.mp3")
+too_soon_sound = pygame.mixer.Sound("assets/oops.mp3")
+success_sound = pygame.mixer.Sound("assets/ding.mp3")
 
 # Game states
 WAITING = "waiting"
@@ -122,7 +122,7 @@ while running:
 
         # Title with pulsing effect
         pulse = int(20 * math.sin(time.time() * 2))  # oscillates between -20 and +20
-        title_text = title_font.render("Reaction Time Tester", True, BLUE)
+        title_text = title_font.render("Twitch-y", True, BLUE)
         screen.blit(title_text, (WIDTH//2 - title_text.get_width()//2, 80 + pulse//4))
 
         # Instructions
