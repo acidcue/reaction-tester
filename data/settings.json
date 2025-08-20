@@ -1,9 +1,9 @@
 {
-  "sound_volume": 1.0,
+  "sound_volume": 0.7,
   "sfx_enabled": true,
   "music_enabled": true,
   "difficulty": "easy",
   "show_statistics": false,
   "theme": "default",
-  "fullscreen": true
+  "fullscreen": false
 }
