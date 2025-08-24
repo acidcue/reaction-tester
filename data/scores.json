@@ -4,10 +4,12 @@
       "best_times": [
         17,
         115,
+        217,
         230,
         230,
         230,
         232,
+        248,
         248,
         264,
         280,
@@ -108,12 +110,24 @@
           "timestamp": "2025-08-20T22:47:01.642421",
           "date": "2025-08-20",
           "difficulty": "easy"
+        },
+        {
+          "time_ms": 248,
+          "timestamp": "2025-08-21T20:48:20.119432",
+          "date": "2025-08-21",
+          "difficulty": "easy"
+        },
+        {
+          "time_ms": 217,
+          "timestamp": "2025-08-21T20:48:40.176233",
+          "date": "2025-08-21",
+          "difficulty": "easy"
         }
       ],
       "statistics": {
-        "total_attempts": 15,
+        "total_attempts": 17,
         "best_time": 17,
-        "average_time": 264.2
+        "average_time": 260.47058823529414
       }
     },
     "normal": {
@@ -196,11 +210,17 @@
     },
     "twitchy-god": {
       "best_times": [
+        16,
+        16,
+        17,
         18,
         50,
         51,
+        65,
+        66,
         66,
         82,
+        83,
         83,
         92,
         113,
@@ -209,13 +229,7 @@
         169,
         184,
         198,
-        200,
-        202,
-        214,
-        214,
-        214,
-        214,
-        216
+        198
       ],
       "all_attempts": [
         {
@@ -769,17 +783,443 @@
           "timestamp": "2025-08-20T22:46:40.703900",
           "date": "2025-08-20",
           "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 549,
+          "timestamp": "2025-08-21T14:56:32.483207",
+          "date": "2025-08-21",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 282,
+          "timestamp": "2025-08-21T14:56:46.386788",
+          "date": "2025-08-21",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 285,
+          "timestamp": "2025-08-21T14:56:54.213416",
+          "date": "2025-08-21",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 335,
+          "timestamp": "2025-08-21T14:57:09.485999",
+          "date": "2025-08-21",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 285,
+          "timestamp": "2025-08-21T14:57:25.500009",
+          "date": "2025-08-21",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 286,
+          "timestamp": "2025-08-21T14:57:35.787817",
+          "date": "2025-08-21",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 347,
+          "timestamp": "2025-08-21T14:57:40.528729",
+          "date": "2025-08-21",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 300,
+          "timestamp": "2025-08-21T14:57:43.843235",
+          "date": "2025-08-21",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 282,
+          "timestamp": "2025-08-21T14:57:46.629509",
+          "date": "2025-08-21",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 495,
+          "timestamp": "2025-08-21T14:57:54.375754",
+          "date": "2025-08-21",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 299,
+          "timestamp": "2025-08-21T14:57:57.315516",
+          "date": "2025-08-21",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 444,
+          "timestamp": "2025-08-21T20:49:25.707005",
+          "date": "2025-08-21",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 297,
+          "timestamp": "2025-08-21T20:49:36.955599",
+          "date": "2025-08-21",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 248,
+          "timestamp": "2025-08-21T20:49:45.314893",
+          "date": "2025-08-21",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 232,
+          "timestamp": "2025-08-21T20:49:50.081163",
+          "date": "2025-08-21",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 364,
+          "timestamp": "2025-08-21T20:50:01.476467",
+          "date": "2025-08-21",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 248,
+          "timestamp": "2025-08-21T20:50:10.275267",
+          "date": "2025-08-21",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 245,
+          "timestamp": "2025-08-21T20:50:16.962274",
+          "date": "2025-08-21",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 362,
+          "timestamp": "2025-08-21T20:50:23.976320",
+          "date": "2025-08-21",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 264,
+          "timestamp": "2025-08-21T20:50:25.126972",
+          "date": "2025-08-21",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 261,
+          "timestamp": "2025-08-21T20:50:29.067432",
+          "date": "2025-08-21",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 233,
+          "timestamp": "2025-08-21T20:50:33.838451",
+          "date": "2025-08-21",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 249,
+          "timestamp": "2025-08-21T20:50:38.196039",
+          "date": "2025-08-21",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 16,
+          "timestamp": "2025-08-21T20:50:40.649604",
+          "date": "2025-08-21",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 246,
+          "timestamp": "2025-08-24T00:01:24.271105",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 264,
+          "timestamp": "2025-08-24T00:01:26.098759",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 250,
+          "timestamp": "2025-08-24T00:01:31.896434",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 66,
+          "timestamp": "2025-08-24T00:01:33.860239",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 65,
+          "timestamp": "2025-08-24T00:01:37.226003",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 229,
+          "timestamp": "2025-08-24T00:01:54.626519",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 251,
+          "timestamp": "2025-08-24T00:01:55.917126",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 230,
+          "timestamp": "2025-08-24T00:01:59.200205",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 245,
+          "timestamp": "2025-08-24T00:02:01.611728",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 229,
+          "timestamp": "2025-08-24T00:02:02.728608",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 804,
+          "timestamp": "2025-08-24T00:12:48.369179",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 263,
+          "timestamp": "2025-08-24T00:12:49.756049",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 198,
+          "timestamp": "2025-08-24T00:12:51.314161",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 434,
+          "timestamp": "2025-08-24T00:13:30.618555",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 787,
+          "timestamp": "2025-08-24T00:13:35.234351",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 529,
+          "timestamp": "2025-08-24T00:13:43.892461",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 17,
+          "timestamp": "2025-08-24T00:14:46.730887",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 328,
+          "timestamp": "2025-08-24T00:20:43.509118",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 227,
+          "timestamp": "2025-08-24T00:20:45.566549",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 245,
+          "timestamp": "2025-08-24T00:20:47.170907",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 247,
+          "timestamp": "2025-08-24T00:20:48.339896",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 83,
+          "timestamp": "2025-08-24T00:26:53.016992",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 380,
+          "timestamp": "2025-08-24T00:26:55.998260",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 293,
+          "timestamp": "2025-08-24T00:26:58.041761",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 308,
+          "timestamp": "2025-08-24T00:27:03.742040",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 263,
+          "timestamp": "2025-08-24T00:36:53.279539",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 331,
+          "timestamp": "2025-08-24T00:37:14.887852",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 277,
+          "timestamp": "2025-08-24T00:37:18.718310",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 298,
+          "timestamp": "2025-08-24T00:42:23.219204",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 250,
+          "timestamp": "2025-08-24T00:42:25.390267",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 234,
+          "timestamp": "2025-08-24T00:42:33.061692",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 278,
+          "timestamp": "2025-08-24T00:48:28.522618",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 269,
+          "timestamp": "2025-08-24T00:48:37.638643",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 380,
+          "timestamp": "2025-08-24T00:49:07.899138",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 3602,
+          "timestamp": "2025-08-24T00:49:27.189314",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 279,
+          "timestamp": "2025-08-24T00:49:38.207863",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 546,
+          "timestamp": "2025-08-24T00:49:43.180186",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 300,
+          "timestamp": "2025-08-24T00:49:47.957929",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 296,
+          "timestamp": "2025-08-24T00:49:54.577237",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 422,
+          "timestamp": "2025-08-24T00:50:14.413273",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 247,
+          "timestamp": "2025-08-24T00:50:20.454535",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 298,
+          "timestamp": "2025-08-24T00:50:24.640029",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 281,
+          "timestamp": "2025-08-24T00:50:34.311610",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 16,
+          "timestamp": "2025-08-24T00:50:38.603329",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 328,
+          "timestamp": "2025-08-24T00:50:44.344206",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 247,
+          "timestamp": "2025-08-24T00:51:17.166906",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
+        },
+        {
+          "time_ms": 281,
+          "timestamp": "2025-08-24T00:51:18.687663",
+          "date": "2025-08-24",
+          "difficulty": "twitchy-god"
         }
       ],
       "statistics": {
-        "total_attempts": 92,
-        "best_time": 18,
-        "average_time": 368.55434782608694
+        "total_attempts": 163,
+        "best_time": 16,
+        "average_time": 356.1717791411043
       }
     }
   },
   "overall_statistics": {
-    "total_attempts": 114,
+    "total_attempts": 187,
     "total_playtime": 0,
     "favorite_difficulty": "twitchy-god"
   }

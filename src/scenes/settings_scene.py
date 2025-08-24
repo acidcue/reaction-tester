@@ -43,11 +43,11 @@ class SettingsScene(BaseScene):
     def setup_option_rects(self):
         """Create rectangles for each setting option in a neat cartoony list."""
         start_y = 150
-        spacing = 65  # reduced from 70
+        spacing = 55  # reduced from 70
         self.option_rects = []
         for i, option in enumerate(self.settings_options):
             y = start_y + (i * spacing)
-            rect = pygame.Rect(120, y, Config.WINDOW_WIDTH - 240, 55)  # reduced from 55
+            rect = pygame.Rect(120, y, Config.WINDOW_WIDTH - 240, 45)  # reduced from 55
             self.option_rects.append(rect)
     
     def handle_event(self, event):
